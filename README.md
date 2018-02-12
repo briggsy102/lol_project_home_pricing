@@ -2,7 +2,7 @@
 Predict future housing prices 
 # About
   * ** I will be using the Ames Housing Data set from Kaggle to create a model that is capable of predicting housing prices in a given market. 
-# Initial Wriite-Up
+# Initial Write-Up
   1. What is the question you hope to answer?
     * I hope to be able to accuratley predict with a high degree of certainty what the price of a home will be. 
   2. What data are you planning to use to answer that question?
